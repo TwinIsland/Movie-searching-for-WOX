@@ -1,0 +1,12 @@
+{
+  "ID":"60643d9de392429789ad1428f03a487a",
+  "ActionKeyword":"movie",
+  "Name":"Wmovie",
+  "Description":"catch the movie online resources",
+  "Author":"Wyatt Huang",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://www.overfit.org",
+  "IcoPath": "IMAGE\\icon.ico",
+  "ExecuteFileName":"core.py"
+}
